@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Dự án này hỗ trợ quản lý trạng thái đặt sân bóng, kiểm tra sân trống, xử lý thời gian, lọc và xuất danh sách sân, mã hóa/giải mã dữ liệu liên quan đến đặt sân.
+Dự án này hỗ trợ quản lý trạng thái đặt sân, kiểm tra sân trống, xử lý thời gian, lọc và xuất danh sách sân, mã hóa/giải mã dữ liệu liên quan đến đặt sân.
 
 ## Cấu trúc thư mục
 
