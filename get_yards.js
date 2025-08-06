@@ -12,7 +12,7 @@ function fixEncoding(str) {
 const input = fs.readFileSync('input.json', 'utf8');
 
 const inputData = JSON.parse(input);
-const output = inputData.branches.filter(item => item.type==2 && item.status==1 && item.provinceId==79).map(item => {
+const output = inputData.branches.filter(item => item.type == 2 && item.status == 1 && item.provinceId == 79).map(item => {
     return {
         id: item.id,
         name: fixEncoding(item.name),
@@ -26,6 +26,7 @@ const output = inputData.branches.filter(item => item.type==2 && item.status==1 
         email: item.email,
         latitude: item.latitude,
         longitude: item.longitude,
-    }});
+    }
+});
 
 fs.writeFileSync('output.json', JSON.stringify(output, null, 2), 'utf8');

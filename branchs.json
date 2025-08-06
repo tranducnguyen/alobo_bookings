@@ -99,28 +99,6 @@
     "phone": "0786788936"
   },
   {
-    "id": "sport_alobo_go_global_free_demo",
-    "name": "ALOBO GLOBAL FREE DEMO 1",
-    "nameEn": "ALOBO GLOBAL FREE DEMO 1",
-    "address": "Hồ Chí Minh",
-    "addressEn": "Hồ Chí Minh",
-    "type": 2,
-    "avatar": "https://m-files.alobo.vn/branch/sport_alobo_go_global_free_demo/main/avatar-1753262842233-thumb.jpg",
-    "cover": "https://m-files.alobo.vn/branch/sport_alobo_go_global_free_demo/main/cover-1753262842236-thumb.jpg",
-    "phone": "(+61) 02 8551 9749"
-  },
-  {
-    "id": "sport_passion_sports_binh_chanh",
-    "name": "PASSION SPORTS BÌNH CHÁNH",
-    "nameEn": "undefined",
-    "address": "E11/8 Thới Hoà, Ấp 5A, Vĩnh Lộc A, Bình Chánh, TPHCM",
-    "addressEn": "undefined",
-    "type": 2,
-    "avatar": "https://m-files.alobo.vn/branch/sport_passion_sports_binh_chanh/main/avatar-1753287730990-thumb.jpg",
-    "cover": "https://m-files.alobo.vn/branch/sport_passion_sports_binh_chanh/main/cover-1753287731005-thumb.jpg",
-    "phone": "0969121295"
-  },
-  {
     "id": "sport_san_cau_long_khanh_hong",
     "name": "Sân cầu lông Khánh Hồng",
     "nameEn": "Sân cầu lông Khánh Hồng",
@@ -330,17 +308,6 @@
     "phone": "0967893168"
   },
   {
-    "id": "sport_tra_mi_badminton",
-    "name": "PLATINUM BADMINTON (Trà Mi)",
-    "nameEn": "PLATINUM BADMINTON (Trà Mi)",
-    "address": "463 Quốc Lộ 1A, Bình Hưng Hoà, Bình Tân, TP Hồ Chí Minh",
-    "addressEn": "463 Quốc Lộ 1A, Bình Hưng Hoà, Bình Tân, TP Hồ Chí Minh",
-    "type": 2,
-    "avatar": "https://m-files.alobo.vn/branch/sport_tra_mi_badminton/main/avatar-1753289527470-thumb.jpg",
-    "cover": "https://m-files.alobo.vn/branch/sport_tra_mi_badminton/main/cover-1753289527471-thumb.jpg",
-    "phone": "0867939101"
-  },
-  {
     "id": "sport_gia_dinh_badminton_center",
     "name": "GIA ĐỊNH BADMINTON CENTER",
     "nameEn": "GIA ĐỊNH BADMINTON CENTER",
@@ -518,8 +485,8 @@
   },
   {
     "id": "sport_son_ta",
-    "name": "Sân Cầu Lông Sơn Tạ",
-    "nameEn": "Sân Cầu Lông Sơn Tạ",
+    "name": "Cầu Lông Sơn Tạ",
+    "nameEn": "Cầu Lông Sơn Tạ",
     "address": "313/7 Phan Huy Ích, Phường 14, Gò Vấp, TP Hồ Chí Minh",
     "addressEn": "313/7 Phan Huy Ích, Phường 14, Gò Vấp, TP Hồ Chí Minh",
     "type": 2,
